@@ -1,18 +1,27 @@
-# Cloud Security & IAM Learning Project
+# Cloud Security & Identity Management Learning Journey
 
-This repository documents my learning journey in AWS IAM and Cloud Security.
+This repository documents my learning journey in Cloud Security, Identity & Access Management (IAM), AWS fundamentals, and Microsoft Entra ID.
 
 ## 📌 Plan
-Content will be added daily as I practice and learn from basics:
 
-- IAM Users, Groups, Roles, Policies  
-- Least privilege principle  
-- Policy Simulator (AWS IAM)  
-- Basic Python scripts for automation (later stage)  
-- Notes from AWS documentation and hands-on labs  
+Content will be added regularly as I continue learning and practicing:
+
+* AWS IAM fundamentals
+* Microsoft Entra ID fundamentals
+* Authentication and MFA
+* Conditional Access
+* RBAC and Zero Trust concepts
+* IAM users, groups, roles, and policies
+* Least privilege principle
+* Passwordless authentication and passkeys
+* Notes from AWS documentation, Microsoft Learn, and hands-on labs
+* Basic automation and scripting (later stage)
 
 ## 🎯 Goal
-Build practical IAM skills for Cloud Security / IAM Analyst roles and freelancing opportunities.
+
+Build practical IAM and Cloud Security skills for IAM Analyst, Cloud Security, and future freelancing opportunities.
 
 ## 🚀 Progress
-Daily learning updates will be added here as I progress step by step.
+
+Weekly learning updates and notes will be added here as I continue progressing step by step.
+
