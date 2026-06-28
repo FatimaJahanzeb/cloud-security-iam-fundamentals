@@ -23,5 +23,5 @@ Build practical IAM and Cloud Security skills for IAM Analyst, Cloud Security, a
 
 ## 🚀 Progress
 
-Weekly learning updates and notes will be added here as I continue progressing step by step.
+- [Week 1: Cloud, AWS IAM, Entra ID Fundamentals](week-01/README.md)
 
